@@ -1,0 +1,36 @@
+# AI 미디어 변환 프로젝트 (Nano Banana & Veo 3 테스트)
+
+이 프로젝트는 원본 이미지를 AI 도구를 사용하여 변환하고, 그 결과물을 다시 AI 동영상으로 생성하는 워크플로우를 기록한 것입니다.
+
+(참고: 'Nano Banana' 및 'Veo 3'는 과제에서 명시된 가상의 도구명이며, 실제 작업은 사용 가능한 상용 AI 툴로 대체하여 수행했습니다.)
+
+---
+
+### 1. 원본 사진 (Original Photo)
+
+가장 기본이 되는 원본 이미지입니다.
+![원본사진](https://private-user-images.githubusercontent.com/150508884/487068600-e03ddfea-460c-4b5f-ba77-e8c794a0a897.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTczOTAyMTcsIm5iZiI6MTc1NzM4OTkxNywicGF0aCI6Ii8xNTA1MDg4ODQvNDg3MDY4NjAwLWUwM2RkZmVhLTQ2MGMtNGI1Zi1iYTc3LWU4Yzc5NGEwYTg5Ny5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkwOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MDlUMDM1MTU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzJkMGRlM2JkMGEzYmYzOTI2NDE0NDI0OTliMjg4Zjc5ODMwZWQ4NTM5YTJiOWM4OWFjMjAwZTBmNjY5Zjk2MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.ojzLP1eVeRWfXQ-ztj51oA2GKBIqeqoKVqrvsONSVy0)
+
+---
+
+### 2. 변환된 사진 (Modified Photo via "Nano Banana")
+
+'Nano Banana' 
+
+![변환된 사진](https://private-user-images.githubusercontent.com/150508884/487068374-ea925afa-54c5-4f2d-aa7f-7312e00dbe67.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTczOTAzNDQsIm5iZiI6MTc1NzM5MDA0NCwicGF0aCI6Ii8xNTA1MDg4ODQvNDg3MDY4Mzc0LWVhOTI1YWZhLTU0YzUtNGYyZC1hYTdmLTczMTJlMDBkYmU2Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwOVQwMzU0MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NmQ3Y2MyMTJiODNlOGNmYmJiOGFlNDcyYTY0MDBkZTRmMDJjMGRhN2VmOTU5NzBjMTdhNzYyODI0MGNhODc2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UWSRYAngVq8mzmqswPUoFXUIVlWyFXYHgnUM_4tZ-Ls)
+
+#### 사용된 프롬프트 (Prompt Used):
+
+> "강아지가 자전거 타는 모습으로 바꿔줘."
+
+---
+
+### 3. 생성된 동영상 (Generated Video via "Veo 3")
+
+'Veo 3' 
+
+![생성된 동영상 GIF](https://private-user-images.githubusercontent.com/150508884/487071365-82282096-27b1-476f-bf0b-801c49f40572.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTczOTA1MjIsIm5iZiI6MTc1NzM5MDIyMiwicGF0aCI6Ii8xNTA1MDg4ODQvNDg3MDcxMzY1LTgyMjgyMDk2LTI3YjEtNDc2Zi1iZjBiLTgwMWM0OWY0MDU3Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwOVQwMzU3MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzQwNTc1ZTk0NTJiNDFiMjhlYWE2MzM4YzE3NjY2M2I5MDQ4ZDZjNDFkZWU5NWZlZGFmMDY3NmYwNTNhZjZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AFxnJCuQtZtVSdbsGvVetOaTgc-fdkR0wCG0PEe6QwM)
+
+#### 사용된 프롬프트 (Prompt Used):
+
+> "강아지가 자전거를 타는 영상 만들어줘."
