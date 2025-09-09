@@ -9,7 +9,7 @@
 ### 1. 원본 사진 (Original Photo)
 
 가장 기본이 되는 원본 이미지입니다.
-![원본사진](https://github.com/zerochani/AI-Media-Experiment/issues/3#issue-3396432072)
+![Image](https://github.com/user-attachments/assets/ca7f17ae-9888-418b-9d03-f6afcfb59c2c)
 
 ---
 
@@ -17,7 +17,7 @@
 
 'Nano Banana' 
 
-![변환된 사진](https://github.com/zerochani/AI-Media-Experiment/issues/4#issue-3396441493)
+![변환된 사진 GIF](https://private-user-images.githubusercontent.com/150508884/487068374-ea925afa-54c5-4f2d-aa7f-7312e00dbe67.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc0MDQ5ODMsIm5iZiI6MTc1NzQwNDY4MywicGF0aCI6Ii8xNTA1MDg4ODQvNDg3MDY4Mzc0LWVhOTI1YWZhLTU0YzUtNGYyZC1hYTdmLTczMTJlMDBkYmU2Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwOVQwNzU4MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNmE2YTVjMjVjMTlhNzZiZDEwMTZlYzQ3MmU4Y2UzOWU2N2M3YzhkZWNlODQzNWIxZjA5MDY4M2U2ZDBiZmVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.56JFylWaYieVfRJqXuxshN40o4Cmxdc-rzdAXfiN7VI)
 
 #### 사용된 프롬프트 (Prompt Used):
 
@@ -29,7 +29,7 @@
 
 'Veo 3' 
 
-![생성된 동영상 GIF](https://github.com/zerochani/AI-Media-Experiment/issues/5#issue-3396463700)
+![Image](https://github.com/user-attachments/assets/82282096-27b1-476f-bf0b-801c49f40572)
 
 #### 사용된 프롬프트 (Prompt Used):
 
